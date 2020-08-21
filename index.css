@@ -57,19 +57,20 @@ header {
   margin: 10px 0 30px;
 }
 
+.comment p {
+  font-size: 12px;
+  margin-top: 40px;
+}
+
 .link {
   font-size: 12px;
+  margin-bottom: 30px;
 }
 
 .link a {
   color: black;
   margin-right: 5px;
   font-size: 16px;
-}
-
-.comment p {
-  font-size: 12px;
-  margin-top: 40px;
 }
 
 .contact-wrapper a {
