@@ -54,11 +54,20 @@ header {
 
 .work p {
   font-size: 10px;
-  margin-top: 10px;
 }
 
-.work img:hover {
+.work-img:hover {
   opacity: 0.8;
+}
+
+.imgs {
+  display: flex;
+  justify-content: center;
+  margin: 20px 30px 40px;
+}
+
+.imgs img {
+  margin: 0 10px;
 }
 
 .comment p {
