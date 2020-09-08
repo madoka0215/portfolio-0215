@@ -52,9 +52,13 @@ header {
   border: 1px solid #dee2e6;
 }
 
-.works-wrapper p {
+.work p {
   font-size: 10px;
-  margin: 10px 0 30px;
+  margin-top: 10px;
+}
+
+.work img:hover {
+  opacity: 0.8;
 }
 
 .comment p {
