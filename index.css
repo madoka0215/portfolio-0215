@@ -46,13 +46,13 @@ header {
   text-align: left;
 }
 
-.product {
+.work {
   margin: 0 100px;
   padding-top: 30px;
   border: 1px solid #dee2e6;
 }
 
-.product-wrapper p {
+.works-wrapper p {
   font-size: 10px;
   margin: 10px 0 30px;
 }
@@ -90,7 +90,7 @@ footer {
 
 @media (max-width: 800px) {
   .about-wrapper,
-  .product {
+  .work {
     margin: 0 50px;
   }
   
@@ -101,7 +101,7 @@ footer {
 
 @media (max-width: 500px) {
   .about-wrapper,
-  .product {
+  .work {
     margin: 0;
   }
   
